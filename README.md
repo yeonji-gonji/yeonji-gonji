@@ -1,19 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5858,100:f09819&height=300&section=header&text=Hi.%20I'm%20Modac&fontSize=90&fontColor=ffffff)
 
-## Profile
+
+### <span style=""> 👨🏻‍💻 **Profile** </span>
 ```js
 const Blog='https://velog.io/@modac42asdfadsf'
 const Email='modac0302@gmail.com'
 ```
+</br>
 
----
-
-## Stacks
-<div style="display: flex; align-items: flex-start;">
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"> | README |
-| ------ | ------ |
-| Plugin | README |
-</div>
+### <span style=""> 🎨 **Stack** </span>
 
 
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+
+|JS|TS|   HTML5   |CSS3|React|ESLint|Prettier|Axios|Redux|AWS|Github|
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="64" height="65"/></div> | <div style="display: flex; align-items: flex-start;"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="64" height="65"/></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="60" height="60" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="60" height="60" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="icon" width="60" height="60" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="60" height="60" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60" height="60" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" /></div> 
