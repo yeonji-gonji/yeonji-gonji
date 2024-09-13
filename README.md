@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm yeonji kim</h1>
-<h3 align="center">A passionate frontend developer from South Korea</h3>
+<h1 align="center">Hi 👋, I'm yeonji kim 😎</h1>
+<h3 align="center">A passionate student developer from South Korea!</h3>
 
 - 🌱 I’m currently learning **AI/ML**
 
