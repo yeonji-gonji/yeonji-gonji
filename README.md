@@ -4,7 +4,7 @@
 ### <span style=""> 👨🏻‍💻 **Profile** </span>
 ```js
 const Blog='https://velog.io/@modac42asdfadsf'
-const Email='modac0302@gmail.com'
+const Email='juni940302@gmail.com'
 ```
 </br>
 
