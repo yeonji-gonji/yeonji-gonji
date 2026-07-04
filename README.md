@@ -1,4 +1,4 @@
-# 김준희 (MODAC)
+# 김준희 (Yeonji-Gonji)
 
 디자인에서 출발한 프론트엔드 개발자입니다.
 
@@ -21,10 +21,10 @@
 
 | 프로젝트 | 설명 | 비고 |
 |---|---|---|
-| [yoram-ilji](https://github.com/MODAC0/yoram-ilji) | 포트폴리오 + 기술 블로그. Next.js 16, Notion CMS, three.js 파티클 씬 | [라이브](https://yoramilji.kr) |
-| [oneul-swim](https://github.com/MODAC0/oneul-swim) | 지역 자유수영 정보 앱. 기획부터 배포까지 단독 진행 | Next.js, Kakao Maps, PWA |
-| [helfit](https://github.com/MODAC0/helfit) | 건강관리 + 커뮤니티 플랫폼. 6인 팀 프로젝트, FE·팀장 | D3 시각화, ChatGPT 연동 |
-| [KnockKnock](https://github.com/MODAC0/KnockKnock) | 일정 관리 React Native 앱. 4인 팀, FE·팀장. 앱스토어·플레이스토어 출시 | RN, 소셜 로그인 |
+| [yoram-ilji](https://github.com/Yeonji-Gonji/yoram-ilji) | 포트폴리오 + 기술 블로그. Next.js 16, Notion CMS, three.js 파티클 씬 | [라이브](https://yoramilji.kr) |
+| [oneul-swim](https://github.com/Yeonji-Gonji/oneul-swim) | 지역 자유수영 정보 앱. 기획부터 배포까지 단독 진행 | Next.js, Kakao Maps, PWA |
+| [helfit](https://github.com/Yeonji-Gonji/helfit) | 건강관리 + 커뮤니티 플랫폼. 6인 팀 프로젝트, FE·팀장 | D3 시각화, ChatGPT 연동 |
+| [KnockKnock](https://github.com/Yeonji-Gonji/KnockKnock) | 일정 관리 React Native 앱. 4인 팀, FE·팀장. 앱스토어·플레이스토어 출시 | RN, 소셜 로그인 |
 
 ## 스택
 
